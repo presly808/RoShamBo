@@ -1,6 +1,5 @@
 package roshambo;
 
-import org.hamcrest.CoreMatchers;
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
@@ -11,7 +10,6 @@ import roshambo.model.Round;
 import roshambo.service.GameEngine;
 import roshambo.utils.GameUtils;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
